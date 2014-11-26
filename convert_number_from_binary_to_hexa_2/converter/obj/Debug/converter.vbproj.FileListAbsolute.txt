@@ -1,0 +1,11 @@
+c:\users\ir\documents\visual studio 2013\Projects\converter\converter\bin\Debug\converter.exe.config
+c:\users\ir\documents\visual studio 2013\Projects\converter\converter\bin\Debug\converter.exe
+c:\users\ir\documents\visual studio 2013\Projects\converter\converter\bin\Debug\converter.pdb
+c:\users\ir\documents\visual studio 2013\Projects\converter\converter\bin\Debug\converter.xml
+c:\users\ir\documents\visual studio 2013\Projects\converter\converter\obj\Debug\converter.Form1.resources
+c:\users\ir\documents\visual studio 2013\Projects\converter\converter\obj\Debug\converter.Resources.resources
+c:\users\ir\documents\visual studio 2013\Projects\converter\converter\obj\Debug\converter.vbproj.GenerateResource.Cache
+c:\users\ir\documents\visual studio 2013\Projects\converter\converter\obj\Debug\converter.exe
+c:\users\ir\documents\visual studio 2013\Projects\converter\converter\obj\Debug\converter.xml
+c:\users\ir\documents\visual studio 2013\Projects\converter\converter\obj\Debug\converter.pdb
+C:\Users\ir\Documents\Visual Studio 2013\Projects\converter\converter\obj\Debug\converter.vbprojResolveAssemblyReference.cache

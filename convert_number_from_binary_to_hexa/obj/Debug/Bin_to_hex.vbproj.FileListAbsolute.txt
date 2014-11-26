@@ -1,0 +1,16 @@
+C:\Users\ir\Desktop\convert number\bin\howto_net_dec_hex_oct_bin.exe
+C:\Users\ir\Desktop\convert number\bin\howto_net_dec_hex_oct_bin.pdb
+C:\Users\ir\Desktop\convert number\bin\howto_net_dec_hex_oct_bin.xml
+C:\Users\ir\Desktop\convert number\obj\Debug\howto_net_dec_hex_oct_bin.Form1.resources
+C:\Users\ir\Desktop\convert number\obj\Debug\Bin_to_hex.vbproj.GenerateResource.Cache
+C:\Users\ir\Desktop\convert number\obj\Debug\howto_net_dec_hex_oct_bin.exe
+C:\Users\ir\Desktop\convert number\obj\Debug\howto_net_dec_hex_oct_bin.xml
+C:\Users\ir\Desktop\convert number\obj\Debug\howto_net_dec_hex_oct_bin.pdb
+C:\Users\ir\Desktop\assigment for interview intel\convert_number_from_binary_to_hexa\obj\Debug\howto_net_dec_hex_oct_bin.exe
+C:\Users\ir\Desktop\assigment for interview intel\convert_number_from_binary_to_hexa\obj\Debug\howto_net_dec_hex_oct_bin.xml
+C:\Users\ir\Desktop\assigment for interview intel\convert_number_from_binary_to_hexa\obj\Debug\howto_net_dec_hex_oct_bin.pdb
+C:\Users\ir\Desktop\assigment for interview intel\convert_number_from_binary_to_hexa\bin\howto_net_dec_hex_oct_bin.exe
+C:\Users\ir\Desktop\assigment for interview intel\convert_number_from_binary_to_hexa\bin\howto_net_dec_hex_oct_bin.pdb
+C:\Users\ir\Desktop\assigment for interview intel\convert_number_from_binary_to_hexa\bin\howto_net_dec_hex_oct_bin.xml
+C:\Users\ir\Desktop\assigment for interview intel\convert_number_from_binary_to_hexa\obj\Debug\howto_net_dec_hex_oct_bin.Form1.resources
+C:\Users\ir\Desktop\assigment for interview intel\convert_number_from_binary_to_hexa\obj\Debug\Bin_to_hex.vbproj.GenerateResource.Cache

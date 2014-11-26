@@ -1,0 +1,4 @@
+C:\Users\ir\Documents\Visual Studio 2013\Projects\converter\converter\bin\Debug\converter.exe.config
+C:\Users\ir\Documents\Visual Studio 2013\Projects\converter\converter\obj\Debug\converter.exe
+C:\Users\ir\Documents\Visual Studio 2013\Projects\converter\converter\obj\Debug\converter.xml
+C:\Users\ir\Documents\Visual Studio 2013\Projects\converter\converter\obj\Debug\converter.pdb
